@@ -4,8 +4,11 @@
 Linux
 
 1-git clone https://github.com/muhsinvoid/Brute-Force
+
 2-cd Brute-Force
+
 3-ls
+
 4-python brute_force.py
 
 
